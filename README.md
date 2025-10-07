@@ -17,7 +17,14 @@ This project is a Node.js backend application that categorizes customer enquirie
 ## Working 
 <img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/6865fcd5-9ac2-423f-ba34-3a9486adf2e3" />
 
-
+## Tech stack
+- nodejs
+- expressjs
+- Mysql 
+- AWS EC2
+- AWS RDS
+- AWS bedrocks
+  
 ## Prerequisites
 
 - Node.js >= 18
